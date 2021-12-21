@@ -288,6 +288,33 @@ body {
 #body div .section {
 	width: 460px;
 }
+#body div .section div {
+	background: #519194;
+	border: 5px solid #5fb3bd;
+	border-radius: 4px;
+	float: none;
+	margin: 0;
+	padding: 0 15px;
+	position: relative;
+}
+#body div .section .article {
+	height: 183px;
+	margin-bottom: 25px;
+	padding: 55px 15px 20px;
+	text-align: right;
+}
+#body div .section .article h2 {
+	text-align: left;
+}
+#body div .section .article h2 a {
+	background: url(../images/icons.png) no-repeat 0 10px;
+	display: inline-block;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	text-indent: -99999px;
+	width: 31px;
+}
 
 
 
