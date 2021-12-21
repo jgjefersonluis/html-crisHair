@@ -158,6 +158,96 @@ body {
 	padding: 10px 0 5px;
 	text-transform: capitalize;
 }
+#body > ul li p {
+	color: #464646;
+	font-size: 12px;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+}
+#body > ul li p a {
+	color: #464646;
+	text-decoration: underline;
+}
+#body > ul li p a:hover {
+	color: #252525;
+}
+#body > div {
+	margin: 0;
+	overflow: hidden;
+	padding: 50px 0 0;
+}
+#body > .more {
+	color: #464646;
+	display: block;
+	font-size: 13px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	width: 80px;
+}
+#body > .more:hover {
+	color: #4a8b92;
+}
+#body h2 {
+	background: url(../images/bg-featured.png) repeat-x;
+	color: #fff;
+	font-family: 'Comfortaa-Regular';
+	font-size: 20px;
+	font-weight: normal;
+	height: 47px;
+	letter-spacing: 0.1em;
+	left: 15px;
+	line-height: 47px;
+	margin: 0;
+	padding: 0 25px;
+	position: absolute;
+	text-transform: capitalize;
+	top: -14px;
+}
+#body h3 {
+	color: #2f394e;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+	padding: 25px 10px 40px;
+	text-transform: capitalize;
+}
+#body > b {
+	color: #2f394e;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0 10px;
+	text-transform: capitalize;
+}
+#body > p {
+	color: #464646;
+	font-size: 13px;
+	line-height: 24px;
+	margin: 0;
+	padding: 20px 10px;
+}
+#body > p a {
+	color: #464646;
+	text-decoration: underline;
+}
+#body > p a:hover {
+	color: #252525;
+}
+#body div div {
+	float: left;
+	margin: 0 10px;
+	padding: 0;
+}
+
+
+
 
 
 
