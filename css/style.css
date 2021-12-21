@@ -13,3 +13,11 @@
 	src: url('../fonts/Comfortaa/Comfortaa-Regular.eot');
 	src: url('../fonts/Comfortaa/Comfortaa-Regular.woff') format('woff'), url('../fonts/Comfortaa/Comfortaa-Regular.ttf') format('truetype'), url('../fonts/Comfortaa/Comfortaa-Regular.svg') format('svg');
 }
+body {
+	background: #BBB2BF url(../images/bg-header.gif) repeat-x top center;
+	line-height: 1;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
