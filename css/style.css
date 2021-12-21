@@ -462,6 +462,24 @@ body {
 	padding: 0;
 	width: 585px;
 }
+#body .content h3 {
+	padding-bottom: 25px;
+	padding-left: 0;
+}
+#body .content p {
+	color: #464646;
+	font-size: 13px;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 24px;
+}
+#body .content p a {
+	color: #464646;
+	text-decoration: underline;
+}
+#body .content p a:hover {
+	color: #252525;
+}
 
 
 
